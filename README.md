@@ -1,30 +1,16 @@
-# React + TypeScript + Vite
+# Todo List com React e TypeScript.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Implementar o [seguinte layout](https://www.figma.com/file/rJmc4EQko4LDGjDhue2veD/ToDo-List-%E2%80%A2-Desafio-React?type=design&node-id=0%3A1&mode=design&t=t7IhpNcOUxL76UZJ-1) desenvolvido no figma.
 
-Currently, two official plugins are available:
+### Lista de atividades a serem desenvolvidas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- [x] Iniciar o projeto React e TypeScript com Vite;
+- [ ] Implementar CSS global e definir style guides do layout;
+- [ ] Implementar layout sem interações;
+- [ ] Separar a aplicação em componentes;
+- [ ] Implementar interações:
+  - [ ] Adicionar uma task;
+  - [ ] Marcar uma task como concluída;
+  - [ ] Remover uma task;
+  - [ ] Exibir quantidade total de tasks;
+  - [ ] Exibir o progresso das tasks concluídas;
