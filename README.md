@@ -5,8 +5,8 @@
 ### Lista de atividades a serem desenvolvidas:
 
 - [x] Iniciar o projeto React e TypeScript com Vite;
-- [ ] Implementar CSS global e definir style guides do layout;
-- [ ] Implementar layout sem interações;
+- [x] Implementar CSS global e definir style guides do layout;
+- [x] Implementar layout sem interações;
 - [ ] Separar a aplicação em componentes;
 - [ ] Implementar interações:
   - [ ] Adicionar uma task;
