@@ -8,8 +8,8 @@
 - [x] Implementar CSS global e definir style guides do layout;
 - [x] Implementar layout sem interações;
 - [ ] Implementar interações:
-  - [ ] Adicionar uma task;
+  - [x] Adicionar uma task;
   - [ ] Marcar uma task como concluída;
   - [ ] Remover uma task;
-  - [ ] Exibir quantidade total de tasks;
+  - [x] Exibir quantidade total de tasks criadas;
   - [ ] Exibir o progresso das tasks concluídas;
