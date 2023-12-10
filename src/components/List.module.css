@@ -37,7 +37,7 @@ main article input + label:before {
 }
 
 main article input:hover + label:before {
-    border: 2px solid var(--purple-dark);
+    border: 2px solid var(--blue-dark);
 }
 
 main article input:checked + label:before {
