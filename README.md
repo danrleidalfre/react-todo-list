@@ -13,4 +13,3 @@
   - [ ] Remover uma task;
   - [ ] Exibir quantidade total de tasks;
   - [ ] Exibir o progresso das tasks concluídas;
-- [ ] Separar a aplicação em componentes;

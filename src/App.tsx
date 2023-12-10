@@ -1,9 +1,8 @@
-import styles from './App.module.css'
-
-import './global.css'
-
 import logo from '/logo.svg'
 import {ListPlus, PlusCircle, Trash} from "phosphor-react";
+
+import styles from './App.module.css'
+
 
 export function App() {
     return (
