@@ -7,9 +7,9 @@
 - [x] Iniciar o projeto React e TypeScript com Vite;
 - [x] Implementar CSS global e definir style guides do layout;
 - [x] Implementar layout sem interações;
-- [ ] Implementar interações:
+- [x] Implementar interações:
   - [x] Adicionar uma task;
-  - [ ] Marcar uma task como concluída;
-  - [ ] Remover uma task;
+  - [x] Marcar uma task como concluída;
+  - [x] Remover uma task;
   - [x] Exibir quantidade total de tasks criadas;
-  - [ ] Exibir o progresso das tasks concluídas;
+  - [x] Exibir o progresso das tasks concluídas;
